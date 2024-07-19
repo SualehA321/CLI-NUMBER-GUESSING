@@ -1,0 +1,19 @@
+{
+  "name": "sualeh_ahmedcli-number-guessing",
+  "version": "1.0.1",
+  "description": "This is a number based cli number guessing game.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sualeh Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.11"
+  }
+}
