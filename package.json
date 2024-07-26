@@ -1,6 +1,6 @@
 {
   "name": "sualeh_ahmedcli-number-guessing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a number based cli number guessing game.",
   "main": "index.js",
   "type": "module",
